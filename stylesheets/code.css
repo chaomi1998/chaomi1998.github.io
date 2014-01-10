@@ -1,5 +1,25 @@
+.highlight {
+  background-color: #F0F3F3;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: .5em 1.5em;
+  margin: 1em 3em;
+  width: 500px;
+}
+
+
+code {
+  font-family: "adaptive-mono-1","adaptive-mono-2", monospace;
+}
+
+.highlight pre {
+  text-align: left;
+  font-size: 1.25em;
+  font-family: "adaptive-mono-1","adaptive-mono-2", monospace;
+  line-height: 1.4em;
+}
+
 .highlight .hll { background-color: #ffffcc }
-.highlight  { background: #f0f3f3; }
 .highlight .c { color: #0099FF; font-style: italic } /* Comment */
 .highlight .err { color: #AA0000; background-color: #FFAAAA } /* Error */
 .highlight .k { color: #006699; font-weight: bold } /* Keyword */
@@ -60,11 +80,3 @@
 .highlight .vg { color: #003333 } /* Name.Variable.Global */
 .highlight .vi { color: #003333 } /* Name.Variable.Instance */
 .highlight .il { color: #FF6600 } /* Literal.Number.Integer.Long */
-
-.type-csharp .highlight .k { color: #0000FF }
-.type-csharp .highlight .kt { color: #0000FF }
-.type-csharp .highlight .nf { color: #000000; font-weight: normal }
-.type-csharp .highlight .nc { color: #2B91AF }
-.type-csharp .highlight .nn { color: #000000 }
-.type-csharp .highlight .s { color: #A31515 }
-.type-csharp .highlight .sc { color: #A31515 }

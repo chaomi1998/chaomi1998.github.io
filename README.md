@@ -1,19 +1,30 @@
-# Docster
-![docster preview](https://raw.githubusercontent.com/DigitalMindCH/docster-jekyll-theme/gh-pages/img/docster_preview.jpg)
+# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+  
+## `Sorry guys but there will be no update until I buy a new laptop.`
+    
+######(If you like this theme or using it, please give a :star: for motivation.)
 
-## simple and easy
-That's how we would describe working with docster.
-We first created it, when we needed an index file for a theme documentation. jekyll offered collections which made the organization into smaller chunks of documentation optimal. Especially because the collections did not generate outputs for themselves.
-This theme was created to generate an organized output. It does not require any plugins, which means you can host on GitHub without much effort.
+**[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
 ## Features
-* Nice syntax highlighting
-* dynamic multi-level navigation
-* Sass stylesheets
+* Minimal, you can focus on your content
+* Responsive
+* Disqus integration
+* Syntax highlighting
+* Optional post image
+* Social icons
+* Page for sharing projects
+* Optional background image
+* Simple navigation menu
+* MathJax support
 
-### Documentation
-We don't believe in delivering Code without explanation. Especially not for a documentation theme. So the [Demo](http://digitalmind.ch/themes/docster-jekyll-theme/demo/) doubles as the documentation for Docster, that should help you set up your own docs without any problems.
+## Preview
 
-### Feedback, Wishes, Problems
-If you run into any trouble or have a request please do so by opening up an issue on the theme's GitHub page.
-If you just want to give us a general feedback feel free to [contact us!](http://digitalmind.ch/contact/)
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+
+See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+
+## Getting Started
+
+To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
